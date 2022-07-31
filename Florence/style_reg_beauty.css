@@ -1,0 +1,47 @@
+body{
+    background: linear-gradient(rgba(0,0,50,0.5),rgba(0,0,50,0.5)),url(background.png);
+    background-size:cover;
+    background-position:center;
+}
+.username{
+    color:rgb(180, 225, 233) !important;
+    position: relative;
+    margin-top: 0px !important;
+    text-align:right;
+    text-transform: uppercase;
+    right:0px;
+   
+}
+a{
+    color:#fff !important;
+    position: relative;
+    margin-top: 40px !important;
+    right:60px;
+    
+   /* justify-content: space-around;*/
+}
+.location{
+    width: 1300px;
+    background-color: rgba(144, 228, 243, 0.6);
+    position: relative;
+    margin: auto;
+    margin-top: 40px !important;
+    color: #ffffff;
+    padding: 10px 0px 10px 0px;
+    text-align: center;
+    border-radius: 15px 15px 0px 0px;
+  }
+  .loc-info{
+    background-color: rgb(144, 228, 243, 0.5);
+    position: relative;
+    padding: 20px;
+    color: #ffffff;
+    width: 1300px;
+    margin: auto;
+    font-size: 18px;
+    font-weight: 300px;
+    justify-content: space-around;
+    line-height: 50px;
+    /*margin-bottom: 20px;*/
+
+  }
